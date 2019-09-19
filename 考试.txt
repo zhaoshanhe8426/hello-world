@@ -1,0 +1,30 @@
+实例化对象：
+scope： page request session application   4分   
+
+
+输出表达式用到的什么语法
+<%= %>  
+
+html表单的默认提交方式: get 
+
+html居中: center 
+
+表格宽度属性名称: width
+
+JSP动作标签 包含标签include:  1.<jsp:include page=""/>  2.<@include file=""/>  //为一个页面导入模板
+
+html无序列表type属性的默认值：disc（圆点）
+
+request中的gatParameter的返回类型：String  类型
+
+session的返回类型：string 类型
+
+form表单各种属性：action    id     name  
+
+page指令:作用于整个JSP页面
+
+JSP的指令标志有三个：page  include taglib
+
+执行sql语句有三个对象执行：connection statement ResultSet
+
+getAttribute返回类型：object 
